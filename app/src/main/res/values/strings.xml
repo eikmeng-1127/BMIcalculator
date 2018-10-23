@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMIcalculator</string>
+    <string name="editTextHeight"></string>
+    <string name="editTextWeight"></string>
+    <string name="calculate">Calculate BMI</string>
+    <string name="BMIresult"></string>
+</resources>
